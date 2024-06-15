@@ -1,6 +1,7 @@
 # Itinerary Planner
 
 ## GitHub repository link -https://github.com/yuktashah1/mtm-frontend-Yukta_Shah
+## Live Link-https://mtm-frontend-yukta-shah.vercel.app/
 ## Description
 
 The Itinerary Planner is a simple React application that allows users to manage a list of tasks needed for their travels. The application will allow users to manage a list of tasks that need to be completed before or during their travels. Users should be able to add, view, update, and delete travel tasks, demonstrating familiarity with CRUD operations in React using Hooks.
