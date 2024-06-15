@@ -1,8 +1,20 @@
-# React + Vite
+# Itinerary Planner
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## GitHub repository link -https://github.com/yuktashah1/mtm-frontend-Yukta_Shah
+## Description
 
-Currently, two official plugins are available:
+The Itinerary Planner is a simple React application that allows users to manage a list of tasks needed for their travels. The application will allow users to manage a list of tasks that need to be completed before or during their travels. Users should be able to add, view, update, and delete travel tasks, demonstrating familiarity with CRUD operations in React using Hooks.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- Add new tasks to the itinerary.
+- View all tasks in a list format.
+- Edit task descriptions inline.
+- Delete tasks from the itinerary.
+- Store tasks locally using browser's localStorage.
+
+## Technologies Used
+
+- React
+- JavaScript (ES6+)
+- HTML/CSS
